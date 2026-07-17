@@ -1,0 +1,1 @@
+# PDFUtils Updates`n`nReleases e arquivos de auto-update do PDFUtils.`n
